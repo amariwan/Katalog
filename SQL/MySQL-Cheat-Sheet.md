@@ -1,6 +1,5 @@
 # MySQL Cheat Sheet
 
-Hey Everyone 👋 
 
 Mysql cheat sheet provides you with one-page that contains the most commonly used MySQL commands and statements that help you work with MySQL more effectively. 
 
