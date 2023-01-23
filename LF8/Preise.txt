@@ -1,9 +1,0 @@
-====== Kalkulation von Preisen ======
-1. Bezugskalkulation
-2. Angebotskalkulation (Vollkostenkalkulation)
-3. Deckungsbeitragsrechnung (Teilkostenkalkulation) - DBI
-
-
-===== Bezugskalkulation =====
-siehe Arbeitsblatt 
-
