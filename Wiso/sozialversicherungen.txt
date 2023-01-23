@@ -1,0 +1,106 @@
+## Pflegeversicherung (PV) ##
+- Verträger: Versicherungsträger sind die Pflegekassen, die bei den Landeskrankenkassen eingerichtet wurden
+- Versicherungspflicht: sind alle Personen, die auch krankenversichert sind
+- Beitragsgrenze: 458€, 50/50, 2,35% + 0,25% Arbeitnehmer (außer Frauen mit Kindern)
+- Leistungen: Die Leistungen der Pflegeversicherung richten sich nach der Pflegebedürftigkeit, die in drei Pflegestufen eingeteilt ist
+- seit Juli 2008:
+    -- Häusliche Pflege:
+      --- Sachleistungen
+        ---- ambulatener Pflegedienst
+        ---- Höchstsätze ambulante Pflege: PS1, PS2, PS3
+      --- Pflegegeld
+        ---- Pflegepersonen: Angehörige, Nachbarn, Freunde
+        ---- Höchstsätze: PS1, PS2; PS3
+      --- sonstige Leistungen
+        ---- Pflegehilfsmittel
+        ---- eventuell. Zusschüsse zu pflegebedingten Umbaumaßnahmen
+        ---- soziale Sicherung der Pflegepersonen
+    -- Annahme: Häusliche Pflege reicht nicht aus bzw. ist nicht durchführbar
+    -- Stationäre Pflege
+- Kostenübernahme durch Pflegekasse:
+    -- allg. Pflegeleistung
+    -- medizinische Behandlungspflege
+    -- soziale Betreuung
+- Höchstsätze bei Heimpflege:
+    -- PS1 1023€
+    -- PS2 1279€
+    -- PS3 1560€
+    -- PS4 1750€
+- Höchstsätze Hauspflege:
+    -- PS1 420€
+    -- PS2 940€
+
+## Arbeitslosenversicherung (AV) ##
+- 1927 Weltwirtschaftskrise
+- finanzielle Absicherung bei Arbeitslosigkeit
+- BBG: 6050€ alte Bundesländer, neue Bundesländer 5200€
+{ Grenze für max. Gehalt, von dem die 3% abgezogen werden }
+
+- Satz: 50/50 Beitragsatz 3%
+- Arbeitslosengeld 1:
+    -- mindestens 1 Jahr berufstätig sein (außer Ausbildung)
+    -- bis 50 Jahre max. 12 Monate
+    -- ab 50 Jahre max. 15 Monate
+    -- ab 58 Jahre max. 24 Monate
+    -- vom Nettogehalt 60-67%
+    -- Krankenversicherung wird übernommen
+- Arbeitslosengeld 2:
+    -- Regelsatz: 399€ (solange Hilfsbedürftigkeit besteht)
+    -- wird alles halbe Jahr überprüft
+    -- ständige Berufsberatung und umschulungen sind Pflicht (über PSA)
+    -- Personal Service Agentur
+- Ziel: Vermeidung + Abbau der Arbeitslosigkeit
+- Mittel: Aufzeigen von Wegen zur
+    -- Schaffung neuer Arbeitsplätze
+    -- Erschließung neuer Beschäftigungsmöglichkeiten
+    -- Verbesserung der Qualität und Geschwindigkeit der Vermittlung
+    -- Erhöhung der Dienstleistungsqualität der Arbeitsämter
+- Hartz: Vier Gesetze für moderne Dienstleistungenam Arbeitsmarkt
+1. Gesetz = Hartz 1 (01.01.2003)
+    -- Zeitarbeit
+    -- Personal-Service-Agentur (PSA)
+2. Gesetz = Hartz 2 (01.04.2003)
+    -- Minijobs
+    -- Ich-AG
+3. Gesetz = Hartz 3 (01.01.2004)
+    -- Bundesanstalt für Arbeit => Bundesanstalt für Arbeit
+    -- Reform der arbeitsmarktpolitischen Instrumente
+4. Gesetz = Hartz 4 (01.04. 2004)
+    -- Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe
+
+
+
+## Krankenversicherung (KV) ##
+- 1883
+- Beitragsbemessunggrenze: 4125€
+- Versicherungspflichtgrenze: 4575€
+- Satz: 14,6%
+    -- Arbeitnehmer: 7,3% + 0,9% (Zusatzbeitrag)
+    -- Arbeitgeber: 7,3%
+- Krankengeld:
+    -- 6 Wochen zahlt der Arbeitgeber
+    -- nach den 6 Wochen zahlt Krankenkasse 60% - 70%
+- Mutterschutz
+    -- 6 Wochen vor dem Entbindungstermin bezahlt die Krankenkasse
+    -- 8 Wochen nach dem Termin bezahlt Krankenkasse
+
+
+## Unfallverischerung (UV) ##
+- 1884
+- Berufsgenossenschaft
+- Beiträgshöhe hängt vom Risiko der Arbeitstätikeit ab
+- wird vom Arbeitgeber bezahlt
+- Arbeitsunfälle am Arbeitsplatz und Wegeunfälle
+- Private Leistungen sind zum Beispiel Freizeit und Sport Versicherungen
+-
+
+
+## Rentenversicherung (RV) ##
+- 1889
+- Deutsche Rentenversicherung Bund
+- Arbeitnehmer und Auszubildene
+- BBG: 6200€ / 5400€, 50/50, 18,7%
+- Erwerbsminderungsrente
+- Altersrente
+- Wittwenrente
+- Waisenrente

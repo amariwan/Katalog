@@ -1,0 +1,20 @@
+Lohn
+
+# ArbeitsLohnberechnung #
+- Grundlohn (Zeitlohn, Akkordlohn)
+ + Zulagen
+ + Zuschläge (Feiertage)
+ + sonstige finanzielle Leistungen (VWL-VWS: Vermögenswirksamme Leistung, Vermögenswirksammes Sparen <- VWS geht nicht in den Bruttolohn ein)
+ #############################################################################
+ Bruttolohn - gesetztliche Abzüge -> Nettolohn
+
+ # gesetzliche Abzüge #
+ - Lohnsteuer (6 Klassen)
+ - Solidaritätszuschlag (5,5% auf die Lohnsteuer bezogen)
+ - Kirchensteuer (8% Bayern und Baden-Württemberg u 9%)
+ - Krankenversicherung (8,2%)
+ - Arbeitslosenversicherung (1,5%)
+ - Rentenversicherung (9,35%)
+ - Pflegeversicherung (1,175%) + (0,25%)
+
+ --> Nettolohn - VWS --> auszuzahlender Betrag

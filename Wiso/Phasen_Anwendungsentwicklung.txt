@@ -1,0 +1,29 @@
+Phasen: 
+1. Ist-Aufnahme
+	- Problem
+	- Bedarf
+2. Ist-Analyse
+	- EntwicklungsKonzeption (funktionsorientiert, datenorientiert, objektorientiert)
+	- Phasenmodell (V-Modell, Prototyping, XP)
+	- Softwarequalitätsmerkmale (z.B. Selbstbeschreibungsqualtität)
+	- Zeitlicher Aufwand Netzplan
+	- Machbarkeit (personell, technisch, ökonomisch)
+	- Entwicklungsumgebung
+	
+Alternativen:
+	- Individuell
+	- Branchensoftware
+	- Standardsoftware
+	
+3. Modellierung (Lastenheft -> Pflichtenheft)
+	- Lastenheft: Was?
+	- Pflichtenheft: Wie?
+	
+	- funktionsorientiert: Strucktorgramm, EPK
+	- datenorientiert: ERD
+	- objektorientiert: Use.Case-Diagramm, Klassendiagramm, dynamisches Diagramm
+	
+Antrag für Programmierung
+- Muss-Funktion
+- Kann-Funktion
+
