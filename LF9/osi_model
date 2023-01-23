@@ -1,0 +1,40 @@
+OSI (1982)
+- Open System Interconnection - Referenzmodell
+- Regeln, die bei Netzwerken zu Kommunikation verwendet werden, nennt man Protokolle
+
+- Gesamtsystem wird in geordnete Menge von Teilsystemen gegliedert
+- Teilsysteme des gleichen Ranges bilden eine Schicht
+- Schichten liegen entsprechend ihrer hierarchischen Rangordnung übereinander
+- einzelnen Schichten bilden eine "Dienst"
+
+7. Application
+6. Presentation
+5. Session/Kommunication
+4. Transport
+3. Internet/Vermittlung
+2b. Logical Link Control/Addressierung, Sicherung
+2a. Medium Access, Zugriffssteuerung
+1. Medium/Kabel
+
+Carrier         |                               Träger/Spediteur
+Sense           |                               Sinn/Beobachter
+Multiple        |   Zugriff auf ein Netzwerk    mehrfach
+Access          |                               Zugriff
+ with           |                               
+Collision       |                               Kollision
+Detection       |                               entdecken/feststellen
+
+
+7. Anwendungsschicht - Schnittstelle zwischen Rechner und Anwedungsprogrammen
+nventionen und Bildschirmdarstellungen
+6. Darstellungsschicht - Methoden zur Datei und Ausgabe, Anzeige von Anweisungen und Fehlermeldungen, Festlegen vot 
+5. Sitzungsschicht - Verbindungsaufbau, Abfangen und Auswerten von Fehlern, Verbindungssychronisation; Wiederaufbau von SItzungen nach Ausfall auf anderer Ebene
+4. Transportschicht - Flusskontrolle, Aufteilung und Zsammenführung des Datenstroms in Datenpakete, Fehlerkontrolle, Kontrolle von Datenverlust
+3. Netzwerkschicht - Addressierung der Datenpakete und Ruting durch das Netz
+2. Sicherungsschicht - Fehlererkennung, Syncronisation der Daten
+1. Bitübertragungsschicht - Definition und Spezifikation für das Übertragungsmedium
+
+
+1-4 Verbindungsorientierte Schichten
+5-7 Anwendungsorientierte Schichten
+

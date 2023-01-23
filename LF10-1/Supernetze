@@ -1,0 +1,18 @@
+200.1.0.0 Netz-ID
+255.255.255.0 Broadcast
+ - leztes Octet: 1111 1111 0000 0000
+Verschiebung des Netzanteils, Stellen werden vom Hostanteil genommen
+Supernetze, die Subnetzmaske wird kleiner
+
+=== VLSM ===
+Variable length of Subnet Mask
+ - erweitertes Subnetting
+ - effizientere Nutzung von Subnetzen
+ - "verschwendet" weniger Ressourcen
+ - Realisiert wird dies auch durch die Zuweisung von individuellen Teilnetzmasken an die vorher erstellen Teilnetze
+ - eine effizientere Nutzung von Adressbereichen
+ - die Verkleinerungder Routingtabellen durch CIDR
+ - eine erhoehte Anzahl moeglicher Subnetze
+== CIDR ==
+Classless Inter-Domain Routing
+zur effizienten Nutzung von 32-bit-IP-Adressraum fuer IPv4

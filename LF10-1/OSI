@@ -1,0 +1,21 @@
+=== Warum? ===
+- Einteilung in wenig komplexe Elemente
+- Standardschnittstellen (Plug and Play)
+- modulare Entwicklung von Baugruppen
+- Symmetrieeigenschaften der Netzmodulfunktionen optimaler aufeinander abgestimmt
+- Auswirkungen einzelner Schichtveraenderungen auf eine andere Schicht werden verhindet
+- untergliedern die komlpexe Netztechnik in ueberschaubare Teilschritte
+
+=== Standardisierungsorganisation ===
+- eigene Firmenstandards ==> proprietaere Systeme, effizient, schnell
+- offene Standards ==> normierte Geraete, langfristig kostenguenstig
+
+=== IEEE ===
+OSI 
+7. Anwendungsschicht
+6. Darstellungsschicht
+5. Sitzungsschicht - Kommunikation zwischen den Hosts (Datei)
+4. Transportschicht - Datenpakete einer Anwendung zuweisen, (Segmente)
+3. Vermittlungschicht - Adresse, optimale Pfade, (Pakete)
+2. Sicherungsschicht ==> Mac-Adressen u. LLC-Schicht, Medienzugriff, IEEE (Frames)
+1. Bituerbertragungsschicht ==> Binaeruebertragung, IEEE (Bits)

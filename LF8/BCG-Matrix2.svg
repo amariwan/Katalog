@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="350"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="BCG Matrix v01.02.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2410"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49665897"
+     inkscape:cx="949.46971"
+     inkscape:cy="101.70368"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vektoren"
+     transform="translate(-180.56789,-61.143655)">
+    <rect
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="rect2451"
+       width="564.16888"
+       height="275.8772"
+       x="214.49452"
+       y="88.886147"
+       ry="2.3492253"
+       rx="2.3492253" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e9afaf;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2441"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="translate(51.382118,98.281244)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#afc6e9;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2443"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="matrix(0.6796116,0,0,0.6796116,264.96598,94.631693)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#afe9af;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2445"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="matrix(0.6796116,0,0,0.6796116,362.55756,148.0829)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ddafe9;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2447"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="matrix(0.3883495,0,0,0.3883495,187.86436,159.1488)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#bc5fd3;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2449"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="matrix(0.2330097,0,0,0.2330097,249.82957,247.16019)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-linejoin:round"
+       id="path2437"
+       sodipodi:cx="532.09814"
+       sodipodi:cy="155.44153"
+       sodipodi:rx="35.519188"
+       sodipodi:ry="35.519188"
+       d="M 567.61733,155.44153 A 35.519188,35.519188 0 1 1 496.57896,155.44153 A 35.519188,35.519188 0 1 1 567.61733,155.44153 z"
+       transform="translate(-8.9660088,-11.724781)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.27108955px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+       x="495.70944"
+       y="80.620636"
+       id="text2417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2419"
+         x="495.70944"
+         y="80.620636">Boston Consulting Group Portfolioanalyse</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 215.09769,88.967827 L 215.09769,368.77257"
+       id="path2421"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 497.14699,367.98002 L 497.14699,88.847366"
+       id="path2423"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.13625,226.92572 L 778.52617,226.92572"
+       id="path2425" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.0643,89.470213 L 215.45474,89.470213"
+       id="path2429"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.13625,364.40846 L 779.61366,364.40846"
+       id="path2433"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.74324799px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="429.87457"
+       y="399.68036"
+       id="text2453"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2455"
+         x="429.87457"
+         y="399.68036">Relativer Marktanteil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="495.52484"
+       y="381.21906"
+       id="text2457"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2459"
+         x="495.52484"
+         y="381.21906">1,0</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 779.10621,367.95192 L 779.10621,364.56148"
+       id="path2435"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="777.11322"
+       y="381.21906"
+       id="text2461"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2463"
+         x="777.11322"
+         y="381.21906">2,0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="215.17354"
+       y="381.21906"
+       id="text2465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2467"
+         x="215.17354"
+         y="381.21906">0,0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="205.48244"
+       y="368.46286"
+       id="text2469"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2471"
+         x="205.48244"
+         y="368.46286">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="205.79443"
+       y="230.98012"
+       id="text2473"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2475"
+         x="205.79443"
+         y="230.98012">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="202.14259"
+       y="93.082306"
+       id="text2477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2479"
+         x="202.14259"
+         y="93.082306">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.74324799px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="-285.26688"
+       y="191.99391"
+       id="text2481"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2483"
+         x="-285.26688"
+         y="191.99391">Marktwachstum [%]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="652.95673"
+       y="203.52657"
+       id="text2485"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2487"
+         x="652.95673"
+         y="203.52657">321.588 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="754.0968"
+       y="257.03778"
+       id="text2489"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2491"
+         x="754.0968"
+         y="257.03778">325.312 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="621.40918"
+       y="257.03778"
+       id="text2493"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2495"
+         x="621.40918"
+         y="257.03778">654.839 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="562.38605"
+       y="147.03175"
+       id="text2497"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2499"
+         x="562.38605"
+         y="147.03175">688.512 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="409.74854"
+       y="222.56944"
+       id="text2501"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2503"
+         x="409.74854"
+         y="222.56944">92.022 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="386.42023"
+       y="286.12958"
+       id="text2505"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2507"
+         x="386.42023"
+         y="286.12958">32.632 Euro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Italic"
+       x="221.23453"
+       y="107.09215"
+       id="text2509"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2511"
+         x="221.23453"
+         y="107.09215">Fragezeichen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Italic"
+       x="221.23453"
+       y="355.66736"
+       id="text2513"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2515"
+         x="221.23453"
+         y="355.66736">Dogs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Italic"
+       x="767.94739"
+       y="355.66736"
+       id="text2517"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2519"
+         x="767.94739"
+         y="355.66736">Cash Cows</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Italic"
+       x="767.94739"
+       y="109.23415"
+       id="text2521"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2523"
+         x="767.94739"
+         y="109.23415">Stars</tspan></text>
+  </g>
+</svg>
