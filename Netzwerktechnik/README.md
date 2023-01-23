@@ -1,5 +1,9 @@
-# Netzwerktechnik
 
+
+- [Netzwerktechnik](#netzwerktechnik)
+- [Netzwerkkonzepte für unterschiedliche Anwendungsgebiete unterscheiden](#netzwerkkonzepte-f-r-unterschiedliche-anwendungsgebiete-unterscheiden)
+
+# Netzwerktechnik
 
 Netzwerktechnik ist der Sammelbegriff für die Technologien, die das Aufbauen, Verwalten und Optimieren von Netzwerken ermöglichen. Dazu gehören zum Beispiel die verschiedenen Protokolle, die zur Datenübertragung verwendet werden, die Hardware, die zur Erstellung von Netzwerken verwendet wird, sowie die Tools und Anwendungen, die zur Verwaltung und Überwachung von Netzwerken verwendet werden. Ein wichtiger Aspekt der Netzwerktechnik ist die Sicherheit, um die Integrität und Vertraulichkeit der Daten im Netzwerk zu gewährleisten.
 
