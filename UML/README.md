@@ -77,15 +77,35 @@ Verhaltensdiagramme zeigen die dynamisches Verhalten der Objekte in einem System
 - Diagramm zur Interaktionsübersicht
 - Zeitdiagramm
 
+![alt text](02-uml-diagram-types.webp)
+
+# Was ist ein Klassendiagramm?
+Das Klassendiagramm ist eine zentrale Modellierungstechnik, die nahezu alle objektorientierten Methoden durchläuft. Dieses Diagramm beschreibt die Objekttypen im System und verschiedene Arten von statischen Beziehungen, die zwischen ihnen bestehen.
 
 
+# Beziehungen
+Es gibt drei Hauptarten von Beziehungen, die wichtig sind:
+
+- Verein - Beziehungen zwischen Instanzen von Typen ( darstellen, bei denen eine Person für ein Unternehmen arbeitet, ein Unternehmen hat eine Reihe von Büros.
+- Vererbung - die offensichtlichste Ergänzung zu ER-Diagrammen zur Verwendung in OO. Es hat eine unmittelbare Entsprechung zur Vererbung im OO-Design.
+- Aggregation - Aggregation, eine Form der Objektzusammensetzung im objektorientierten Design.
+
+Beispiel für ein Klassendiagramm
 
 
+![alt text](03-class-diagram-example.webp)
 
 
+# Was ist Komponentendiagramm?
+In der Unified Modeling Language zeigt ein Komponentendiagramm, wie Komponenten zu größeren Komponenten oder Softwaresystemen miteinander verbunden sind. Es zeigt die Architekturen der Softwarekomponenten und die Abhängigkeiten zwischen ihnen. Diese Softwarekomponenten, einschließlich Laufzeitkomponenten, ausführbare Komponenten sowie Quellcodekomponenten.
 
+Beispiel für ein Komponentendiagramm
 
+![alt text](04-component-diagram-example.webp)
 
+# Was ist ein Bereitstellungsdiagramm?
+Das Bereitstellungsdiagramm hilft bei der Modellierung des physischen Aspekts eines objektorientierten Softwaresystems. Es handelt sich um ein Strukturdiagramm, das die Architektur des Systems als Bereitstellung ( -Verteilung ) von Software-Artefakten zu Bereitstellungszielen zeigt. Artefakte stellen konkrete Elemente in der physischen Welt dar, die das Ergebnis eines Entwicklungsprozesses sind. Es modelliert die Laufzeitkonfiguration in einer statischen Ansicht und visualisiert die Verteilung von Artefakten in einer Anwendung. In den meisten Fällen werden die Hardwarekonfigurationen zusammen mit den Softwarekomponenten modelliert, auf denen gelebt wurde.
 
+Beispiel für ein Bereitstellungsdiagramm
 
 
