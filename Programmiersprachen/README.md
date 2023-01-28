@@ -345,20 +345,21 @@ Ja, das sind tatsächlich einige der gängigen Programmiersprachen. Hier ist ein
 
 
 1. PHP:
-```
+
+```php
 <?php
 echo "Hello World";
 ?>
 ```
 
 2. Perl:
-```
+```Perl
 #!/usr/bin/perl
 print "Hello World\n";
 ```
 
 3. Java:
-```
+```java
 public class HelloWorld {
    public static void main(String[] args) {
       System.out.println("Hello World");
@@ -367,7 +368,7 @@ public class HelloWorld {
 ```
 
 4. C:
-```
+```c
 #include <stdio.h>
 
 int main()
@@ -378,7 +379,7 @@ int main()
 ```
 
 5. C++:
-```
+```cpp
 #include <iostream>
 
 int main()
@@ -389,7 +390,7 @@ int main()
 ```
 
 6. C#:
-```
+```csharp
 using System;
 
 class HelloWorld
@@ -402,12 +403,12 @@ class HelloWorld
 ```
 
 7. JavaScript:
-```
+```javascript
 console.log("Hello World");
 ```
 
 8. Delphi:
-```
+```ruby
 program HelloWorld;
 
 begin
@@ -416,7 +417,7 @@ end.
 ```
 
 9. Visual Basic:
-```
+```vbnet
 Module HelloWorld
   Sub Main()
     Console.WriteLine("Hello World")
@@ -425,24 +426,24 @@ End Module
 ```
 
 10. VBA:
-```
+```vbnet
 Sub HelloWorld()
   MsgBox "Hello World"
 End Sub
 ```
 
 11. Ruby:
-```
+```ruby
 puts "Hello World"
 ```
 
 12. Python:
-```
+```py
 print("Hello World")
 ```
 
 13. Cobol:
-```
+```sql
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
 PROCEDURE DIVISION.
@@ -451,22 +452,22 @@ PROCEDURE DIVISION.
 ```
 
 14. F#:
-```
+```fs
 printfn "Hello World"
 ```
 
 15. Lisp:
-```
+```lisp
 (print "Hello World")
 ```
 
 16. Prolog:
-```
+```py
 write('Hello World'), nl.
 ```
 
 17. Assembler:
-```
+```as
 section .data
     hello db 'Hello World', 0
 
